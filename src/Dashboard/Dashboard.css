@@ -1,0 +1,22 @@
+.button {
+    margin-left: 130pt;
+    margin-top: 40pt;
+}
+
+.header {
+    display: inline-block;
+    margin-top: 50pt;
+    margin-left: 120pt;
+}
+
+.headerb {
+    margin-left: 900pt;
+}
+
+.navbutton {
+    margin-right: 10pt;
+}
+
+.b {
+    background-color: aquamarine;
+}
